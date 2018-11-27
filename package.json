@@ -131,7 +131,7 @@
     "primus": "^7.0.0",
     "reconnect-core": "^1.3.0",
     "semver": "^5.5.1",
-    "serialport": "^7.0.2",
+    "serialport": "^7.1.0",
     "spdy": "^4.0.0",
     "split": "^1.0.0",
     "stat-mode": "^0.2.2",
